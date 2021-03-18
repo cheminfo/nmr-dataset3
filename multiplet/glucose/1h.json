@@ -1,0 +1,22 @@
+{
+  "spectra": [
+    {
+      "data": {},
+      "id": "0abwvynpah97",
+      "source": {
+        "original": [],
+        "jcamp": null,
+        "jcampURL": "./glucose/1h.dx"
+      },
+      "display": {
+        "name": "Exercise 6",
+        "color": "#C10020"
+      }
+    }
+  ],
+  "molecules": [
+    {
+      "molfile": ""
+    }
+  ]
+}

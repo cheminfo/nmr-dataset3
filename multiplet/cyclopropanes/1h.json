@@ -1,0 +1,22 @@
+{
+  "spectra": [
+    {
+      "data": {},
+      "id": "0abwvynpah97",
+      "source": {
+        "original": [],
+        "jcamp": null,
+        "jcampURL": "./cyclopropanes/1h.dx"
+      },
+      "display": {
+        "name": "Exercise 3",
+        "color": "#C10020"
+      }
+    }
+  ],
+  "molecules": [
+    {
+      "molfile": ""
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "spectra": [
+    {
+      "data": {},
+      "id": "0abwvynpah97",
+      "source": {
+        "original": [],
+        "jcamp": null,
+        "jcampURL": ""
+      },
+      "display": {
+        "name": "",
+        "color": "#C10020"
+      }
+    }
+  ],
+  "molecules": [
+    {
+      "molfile": ""
+    }
+  ]
+}
