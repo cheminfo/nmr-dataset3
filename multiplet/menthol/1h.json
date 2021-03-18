@@ -9,14 +9,10 @@
         "jcampURL": "./menthol/1h.dx"
       },
       "display": {
-        "name": "Exercise 8",
+        "name": "menthol",
         "color": "#C10020"
       }
     }
   ],
-  "molecules": [
-    {
-      "molfile": ""
-    }
-  ]
+  "molecules": []
 }
