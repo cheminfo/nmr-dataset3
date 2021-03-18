@@ -21,7 +21,7 @@ for (const dir of dirs) {
     let molfile = readFileSync(join(DATA_DIR, dir, molfileName), 'utf8');
     json.molecules.push({ molfile });
   }
-  json.spectra[0].source.jcampURL = URL_FOLDER + '/' + dir + '/1h.dx';
+  json.spectra[0].source.jcampURL = URL_FOLDER + '/' + dir + '/1h.jdx';
   json.spectra[0].display.name = dir;
   writeFileSync(
     join(DATA_DIR, dir, '1h.json'),
