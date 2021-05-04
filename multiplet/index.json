@@ -2,7 +2,8 @@
   {
     "file": "./artemisin/1h.json",
     "title": "artemisin",
-    "view": ""
+    "view": "",
+    "selected": true
   },
   {
     "file": "./borohydride/1h.json",
