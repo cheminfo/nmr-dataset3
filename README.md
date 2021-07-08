@@ -5,5 +5,4 @@ The spectra can be opened with [NMRium](https://www.nmrium.org/nmrium#?toc=https
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5081742.svg)](https://doi.org/10.5281/zenodo.5081742)
 
-
 [![DOI](https://img.shields.io/badge/NMRium-Spectra-green)](https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fcheminfo.github.io%2Fnmr-dataset3%2Fmultiplet%2Findex.json)
