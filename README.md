@@ -3,4 +3,5 @@ The jcamp files of the spectra presented in the journal article https://doi.org/
 
 The spectra can be opened with [NMRium](https://www.nmrium.org/nmrium#?toc=https%3A%2F%2Fcheminfo.github.io%2Fnmr-dataset3%2Fmultiplet%2Findex.json).
 
-https://doi.org/10.5281/zenodo.8475
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5081742.svg)](https://doi.org/10.5281/zenodo.5081742)
+
